@@ -1,6 +1,10 @@
 # Feedback-System
 Feedback system developed in PHP, MYSql
 
+
+demo:https://www.youtube.com/embed/CpZYyzIfmP0
+
+
 To Run:
 1) create an SQL database "feedback"
 2) import SQL file present in the databse folder of the project file 
@@ -8,5 +12,3 @@ To Run:
 4) Navigate to the root directory for submitting feedback and "/admin" for viewing feedback
 5) Default username: admin@admin.com , password: admin
 
-demo: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CpZYyzIfmP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
